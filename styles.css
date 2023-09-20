@@ -1,0 +1,41 @@
+
+
+.navigation-bar { display: flex;
+                background-color: black;
+                justify-content: space-evenly;
+                font-size: 20px;
+                padding: 10px;   
+ }
+
+.Background-img { 
+        background-image: url(img/pizza.jpg);
+        background-repeat: no-repeat;
+        
+ }
+
+
+.textsize-pos { color: white; 
+        
+        padding: 10px;
+        font-size: 15px;
+        width: 200px;
+    }
+
+.img-menu { 
+    
+    width: 30%;
+    
+    
+
+}
+
+a { color: white; }
+
+
+
+
+
+p { color: white; 
+    font-size: 20px;
+width: 20px;
+}
